@@ -1,0 +1,14 @@
+/*ctrl-enter: add a new todo item below the current
+ctrl-shift-enter: add a new todo item above the current
+ctrl-d: toggle completion of the task
+ctrl-shift-a: move all completed tasks to the archive section
+alt-c: cancel the selected tasks
+ctrl-shift-s: add/update timestamp for current task*/
+
+
+☐ new todo!
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+Archive:
+    ✔ complete task @done(2016-12-23 16:14)
+    ✔ complete task2 @done(2016-12-23 16:15)
