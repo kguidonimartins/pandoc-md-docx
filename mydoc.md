@@ -1,10 +1,11 @@
 ---
 title: Manuscrito escrito '.md' com saída para '.docx'
 author: 
-- Elis Regina¹, Sérgio Sampaio², Tim Maia³
-- ¹Gaúcha, carioca de coração,
-- ²Espiritossantense-cachoeirense, tão fera quanto Bebeto Carlos,
-- ³Carioca, Universalismo (ir)Racional
+- |
+    Elis Regina^1^, Sérgio Sampaio^2^, Tim Maia^3^  
+    ^1^Gaúcha, carioca de coração,  
+    ^2^Espiritossantense-cachoeirense, tão fera quanto Bebeto Carlos,  
+    ^3^Carioca, Universalismo (ir)Racional  
 bibliography: sources/library.bib
 csl: sources/ABNT.csl
 output:
