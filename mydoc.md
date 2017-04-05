@@ -1,16 +1,16 @@
 ---
-title: Manuscrito escrito '.md' com saída para '.docx'
-author: 
+title: "Manuscrito escrito '.md' com saída para '.docx'"
+author:
 - |
     Elis Regina^1^, Sérgio Sampaio^2^, Tim Maia^3^  
     ^1^Gaúcha, carioca de coração,  
     ^2^Espiritossantense-cachoeirense, tão fera quanto Bebeto Carlos,  
     ^3^Carioca, Universalismo (ir)Racional  
-bibliography: sources/library.bib
 csl: sources/ABNT.csl
 output:
   word_document:
     reference_docx: sources/template.docx
+bibliography: sources/library.bib
 ---
 
 
