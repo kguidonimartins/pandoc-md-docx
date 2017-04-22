@@ -22,6 +22,9 @@ https://github.com/djhocking/Markdown-for-Manuscripts
 
 http://svmiller.com/blog/2016/02/svm-r-markdown-manuscript/
 
+http://blog.kdheepak.com/writing-papers-with-markdown.html
+
+https://github.com/mschroen/Science.md
 -->
 
 # Resumo
