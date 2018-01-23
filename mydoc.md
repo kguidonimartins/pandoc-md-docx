@@ -25,6 +25,8 @@ http://svmiller.com/blog/2016/02/svm-r-markdown-manuscript/
 http://blog.kdheepak.com/writing-papers-with-markdown.html
 
 https://github.com/mschroen/Science.md
+
+https://crsh.github.io/papaja_man/r-markdown-components.html#yaml-front-matter
 -->
 
 # Resumo
