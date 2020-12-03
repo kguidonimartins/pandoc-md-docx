@@ -30,14 +30,14 @@ https://crsh.github.io/papaja_man/r-markdown-components.html#yaml-front-matter
 -->
 
 # Resumo
-</br>  <!-- necessário pro makefile -->
+
+\pagebreak
 
 
-
-##### Quebra de página
 
 # Introdução
-</br>  <!-- necessário pro makefile -->
+
+\pagebreak
 
 Segundo @Legendre2009, blablabla.
 
@@ -48,45 +48,31 @@ blbllbblbalkn -@Legendre2012
 bleblebleble (blbli aqui dentro; @Legendre2012; @Legendre1993)
 
 
-##### Quebra de página
 
 # Objetivos
-</br>  <!-- necessário pro makefile -->
 
 @Legendre2012
 
 <!-- TODO: para incluir TODO ou REVIEW -->
 
 
-##### Quebra de página
 
 # Material e Métodos
-</br>  <!-- necessário pro makefile -->
 
 @Baselga2010
-
 $$
 H' = - \sum_{i=1}^{S} p_{i} ln p_{i}
-$$
-
-##### Quebra de página
 
 # Resultados esperados
-</br>  <!-- necessário pro makefile -->
 
 Estrutura espacial [@Legendre1993].
 
 <!-- a figura é centralizada pelo template.docx -->
 ![Figura 1. Theory](figs/isaacNewton1689.jpg)
 
-##### Quebra de página
 
 # Cronograma
-</br>  <!-- necessário pro makefile -->
 
 @Oksanen2015
 
-##### Quebra de página
-
 # Referências
-</br>  <!-- necessário pro makefile -->
